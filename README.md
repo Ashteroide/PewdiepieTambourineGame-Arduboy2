@@ -8,3 +8,7 @@ I shaped the hand and tambourine in Photoshop (Courtesy to my School) and then u
 
 If you enjoy/like this please consider giving it a star in the top right there on Github
 
+Previews:
+![alt text](https://github.com/Ashteroide/Pewdiepie-Tambourine-Arduboy2/Preview Images/master/Tambourine_1.png?raw=true)
+![alt text](https://github.com/Ashteroide/Pewdiepie-Tambourine-Arduboy2/Preview Images/master/Tambourine_2.png?raw=true)
+![alt text](https://github.com/Ashteroide/Pewdiepie-Tambourine-Arduboy2/Preview Images/master/Tambourine_3.png?raw=true)
