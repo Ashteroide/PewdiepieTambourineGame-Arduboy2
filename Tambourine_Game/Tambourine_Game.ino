@@ -36,10 +36,14 @@ void reset()
 void setup() {
   arduboy.begin();
   reset();
+  Serial.begin(9600);
 
 }
 
 void loop() {
+
+  Serial.write(arduboy.getBuffer(), 128 * 64 / 8);
+  
   if(!arduboy.nextFrame())
     return;
   arduboy.pollButtons();
