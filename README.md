@@ -1,4 +1,4 @@
-# PewdiepieTambourineGame-Arduboy2
+# Pewdiepie's Tambourine The Game on the Arduboy2
 
 "Floor Gang Ouh"
 -Pewdiepie
