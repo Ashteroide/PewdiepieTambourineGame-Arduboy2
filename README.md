@@ -1,4 +1,5 @@
-# Pewdipie-Tambourine-Arduboy2
+# PewdiepieTambourineGame-Arduboy2
+
 "Floor Gang Ouh"
 -Pewdiepie
 
